@@ -1,0 +1,39 @@
+body{
+    background-color: bisque;
+}
+
+.grid{
+    width: 1280px;
+    height: 720px;
+    background-color: coral;
+    padding: 10px 50px 50px 40px;
+    border: 1px lightcoral;
+}
+
+.grid h1{
+    font-family: Arial;
+    background-color: lavenderblush;
+    font-size: 60px;
+    text-align: center;
+    color: black;
+}
+
+.grid #question{
+    font-family: Arial;
+    font-size: 30px;
+    color: lavender;
+}
+
+#button1,#button2,#button3,#button4 {
+    background-color: lavenderblush;
+    width: 250px;
+    font-size: 20px;
+    color: white;
+    margin:30px 20px 20px 500px;
+    padding:15px 15px;
+}
+
+#button1:hover,#button2:hover,#button3:hover,#button4:hover {
+    cursor: pointer;
+    background-color: lightgrey;
+}
