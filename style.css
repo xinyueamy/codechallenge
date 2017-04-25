@@ -15,25 +15,37 @@ body{
     background-color: lavenderblush;
     font-size: 60px;
     text-align: center;
-    color: black;
+    color: coral;
 }
 
 .grid #question{
     font-family: Arial;
     font-size: 30px;
-    color: lavender;
+    color: lavenderblush;
+    text-align: center;
 }
 
-#button1,#button2,#button3,#button4 {
+.buttons{
+    margin-top: 30px;
+}
+
+#button0,#button1,#button2,#button3 {
     background-color: lavenderblush;
     width: 250px;
     font-size: 20px;
-    color: white;
-    margin:30px 20px 20px 500px;
+    color: coral;
+    margin:10px 20px 20px 500px;
     padding:15px 15px;
 }
 
-#button1:hover,#button2:hover,#button3:hover,#button4:hover {
+#progress{
+    font-family: Arial;
+    color: lavenderblush;
+    font-size: 18px;
+    text-align: center;
+}
+
+#button0:hover,#button1:hover,#button2:hover,#button3:hover {
     cursor: pointer;
     background-color: lightgrey;
 }
