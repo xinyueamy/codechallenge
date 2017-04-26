@@ -17,6 +17,6 @@ It will be good if I had connected the web application to a db to make it functi
 ##Demo
 
 Please download the screen capture for the demo. 
-MP4: 
-mov: 
+MP4: https://github.com/xinyueamy/codechallenge/blob/master/Screen%20Capture.mp4
+mov: https://github.com/xinyueamy/codechallenge/blob/master/Screen%20Capture.mov
 (the .mov can be played on OS only. It's in high resolution.)
